@@ -8,5 +8,6 @@
         "Access-Control-Allow-Origin": "*"
       }
     }
-  ]
+  ],
+  "regions": ["hnd1"]
 }
