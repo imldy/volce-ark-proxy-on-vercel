@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://api.openai.com",
+      "dest": "https://ark.cn-beijing.volces.com",
       "headers": {
         "Access-Control-Allow-Origin": "*"
       }
