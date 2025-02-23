@@ -9,6 +9,5 @@
       }
     }
   ],
-  "regions": ["hnd1"],
-  "runtime": "edge"
+  "regions": ["hnd1"]
 }
